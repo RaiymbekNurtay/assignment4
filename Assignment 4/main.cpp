@@ -17,10 +17,10 @@ int main() {
 }
 
 ostream & operator << (ostream &out, const Student *other){
-    out << "Name    |      ID      |    Age     |    Courses      |   Activities" << endl;
+    out << "Name    |      ID      |    Age     |    Activities     |   Courses" << endl;
     out << "________________________________________________________________" << endl;
     for(int y=0; 7 > y; y++) {
-        out << other[y].name << "     |    " << other[y].ID << "     |      " << other[y].age << "     |    ";
+        out << other[y].name << "     |    " << other[y].ID << "     |      " << other[y].age << "     |    " << other[y].activities << "     |      ";
         for (int j = 0; x > j; j++) {
             out << other[y].course[j].name << endl << "                                               " ;
         }
@@ -32,7 +32,7 @@ return out;
 
 istream & operator >> (istream &in,  Student *other)
 {
-    cout << "Enter students number";
+    cout << "Enter number of students";
     int number;
     in >> number;
     for(int h=0; number > h; h++) {
@@ -49,6 +49,8 @@ istream & operator >> (istream &in,  Student *other)
             cout << "Enter Student Course";
             in >> other[h].course[k].name;
         }
+        cout << "Enter Student Activity";
+        in >> other[h].activities;
     }
         return in;
 }
