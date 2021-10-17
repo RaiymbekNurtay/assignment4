@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/Acm.h
+Course.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/Course.h
+map
+-
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/Course.h
+string
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/string
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/IEEE.h
+Course.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/Course.h
+Acm.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/Acm.h
+set
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/set
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/Student.h
+Acm.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/Acm.h
+iostream
+-
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/main.cpp
+iostream
+-
+Course.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/Course.h
+IEEE.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/IEEE.h
+Student.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment 4/Student.h
+
