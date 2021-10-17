@@ -14,6 +14,7 @@ public:
     int ID;
     int age;
     Course course[10];
+    string activities;
     friend ostream &operator<<(ostream &out, const Student &other);
 };
 
