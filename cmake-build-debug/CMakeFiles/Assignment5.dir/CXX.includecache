@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment5/Board.h
+iostream
+-
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment5/Player.cpp
+time.h
+-
+Player.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment5/Player.h
+Board.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment5/Board.h
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment5/Player.h
+Board.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Assignment5/Board.h
+
