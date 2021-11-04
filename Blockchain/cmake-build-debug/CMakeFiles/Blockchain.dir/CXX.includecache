@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/Block.h
+ctime
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/ctime
+string
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/string
+Structt.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/Structt.h
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/Blockchain.h
+Block.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/Block.h
+vector
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/vector
+Structt.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/Structt.h
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/Structt.h
+ctime
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/ctime
+string
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/string
+
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/main.cpp
+iostream
+-
+vector
+-
+Block.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/Block.h
+Blockchain.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/Blockchain.h
+Structt.h
+/cygdrive/c/Users/Raiymbek Nurtay/CLionProjects/Blockchain/Structt.h
+

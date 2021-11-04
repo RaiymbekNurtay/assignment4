@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Blockchain.dir/main.cpp.o CMakeFiles/Blockchain.dir/Block.cpp.o CMakeFiles/Blockchain.dir/Blockchain.cpp.o CMakeFiles/Blockchain.dir/Struct.cpp.o CMakeFiles/Blockchain.dir/Structt.cpp.o -o Blockchain.exe -Wl,--out-implib,libBlockchain.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
